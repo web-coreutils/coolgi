@@ -22,5 +22,6 @@ TODO LOGO
 - Security features
   - hidden files are not allowed
   - parent paths are not allowed (`..`)
+  - Non-executable files are not allowed
   - existing path variables cant be overwritten
 - Debug flag `->` stderr in resp body if ret != 0
